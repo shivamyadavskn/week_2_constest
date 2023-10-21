@@ -1,0 +1,16 @@
+/* styles.css */
+.listing-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+}
+
+.reviews-and-rating {
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.amenities-preview {
+    font-size: 12px;
+    margin-top: 5px;
+}
